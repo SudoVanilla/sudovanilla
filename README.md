@@ -10,6 +10,6 @@ Associate Member of Free Software Foundation, supporting movements such as:
 
 
 
-Become a sponsor of SudoVanilla: https://sudovanilla.org/donate/
+Become a sponsor of SudoVanilla: https://sudovanilla.com/donate/
 
-All code by SudoVanilla like Penpot Desktop, Nexus Polestar, Electron templates and more are available on my own website at https://sudovanilla.org/code/Korbs/.
+All code by SudoVanilla like Penpot Desktop, Nexus Polestar, Electron templates and more are available on my own website at https://sudovanilla.com/code/Korbs/.
